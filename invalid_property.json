@@ -1,0 +1,9 @@
+{
+  "name": "Broken Listing",
+  "location": "",
+  "price": 8500000,
+  "property_type": "2-BHK apartment",
+  "cta": "Call Sample Realty to book a visit.",
+  "images": ["images/does_not_exist.jpg", "images/img01.jpg"],
+  "key_features": ["Park View"]
+}

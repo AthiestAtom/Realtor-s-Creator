@@ -1,0 +1,18 @@
+{
+  "name": "Sunrise Studio Apartment",
+  "location": "Sample Street, Sample City",
+  "price": "₹32,50,000",
+  "property_type": "1-RK studio",
+  "cta": "Call Sample Realty at 000-0000000 to enquire.",
+  "images": [
+    "images/img01.jpg",
+    "images/img02.jpg",
+    "images/img04.jpg",
+    "images/img05.jpg"
+  ],
+  "image_map": {
+    "title": "images/img04.jpg",
+    "price": "images/img01.jpg",
+    "cta": "images/img02.jpg"
+  }
+}

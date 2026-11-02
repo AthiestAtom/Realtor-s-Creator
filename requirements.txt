@@ -1,0 +1,4 @@
+Pillow>=10.1
+pytest>=7.4
+# Optional, only for --voice (uses Google's text-to-speech over the internet)
+gTTS>=2.5
